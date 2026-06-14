@@ -6,3 +6,4 @@ instance/
 *.db-journal
 shop.db
 *.db
+ml_models/model.pkl
